@@ -93,7 +93,7 @@ hml: home_row_mod_left {
             bindings = <
                 AS(EQUAL) AS(N1)    AS(N2)   AS(N3)   AS(N4)     AS(N5) AS(SQT)                                                           AS(MINUS) AS(N6) AS(N7) AS(N8)    AS(N9)   AS(N0)   &none
                 &kp TAB   &kp Q     &kp W    &kp E    &kp R      &kp T  &none                                                            &none &kp Y  &kp U  &kp I     &kp O    &kp P    AS(BSLH)
-                &kp DEL   &kp A     &kp S    &kp D    &hml LGUI F      &kp G  &mt LGUI LG(TAB)        &vim_bp &vim_bn &kp LGUI  &kp ESC           &mt RGUI RG(GRAVE) &hmr RGUI H  &kp J  &kp K     &kp L    AS(SEMI) &none
+                &kp DEL   &kp A     &kp S    &kp D    &hml LGUI F      &kp G  &mt LGUI LG(TAB)        &vim_bp &vim_bn &kp LGUI  &kp ESC           &mt RGUI RG(GRAVE) &kp H  &hmr RGUI J  &kp K     &kp L    AS(SEMI) &none
                 &kp LSHFT &mt LCTRL Z     &kp X    &kp C    &kp V      &kp B                            &kp HOME &kp PG_UP                           &kp N  &kp M  AS(COMMA) AS(DOT)  AS(FSLH) &kp RSHFT
                 &mo 2     AS(GRAVE) &kp CAPS &kp LEFT &kp RIGHT                &kp SPACE &kp LALT &kp END  &kp PG_DN &kp BSPC &kp ENTER              &kp UP &kp DOWN  AS(LBKT) AS(RBKT) &tog 1
             >;
